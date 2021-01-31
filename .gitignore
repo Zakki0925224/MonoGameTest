@@ -1,3 +1,5 @@
 /.vscode
 /bin
 /obj
+/Content/bin/Windows/Content
+/Content/obj/Windows/Content
